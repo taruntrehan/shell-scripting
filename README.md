@@ -9,7 +9,8 @@ Few examples of code are:
 
 Steps to run.
 1. Note the directory where you have saved the file.
-2. cd <directory_path>
-3. chmod +x <shell_file_name>
+2. ```cd <directory_path>```
+3. ```chmod +x <shell_file_name>```
 4. Above command grants execute permission to the shell script.
-5. sh <shell_file_name>
+5. ```sh <shell_file_name>```
+
