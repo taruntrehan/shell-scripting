@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "Hello to shell-scripting."
+echo "Hello to sed command scripting."
+
+

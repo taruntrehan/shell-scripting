@@ -1,0 +1,14 @@
+-rwxrwxr-x 1 ttrehan ttrehan  46 Mar 14 23:56 simpleSed.sh
+-rwxrwxr-x 1 ttrehan ttrehan  46 Mar 14 23:56 echoShell.sh
+-rwxrwxr-x 1 ttrehan ttrehan 196 Mar 18 08:52 inputVariables.sh
+-rwxrwxr-x 1 ttrehan ttrehan 280 Mar 18 08:59 inputVariablesGetOpts.sh
+-rwxrwxr-x 1 ttrehan ttrehan 282 Mar 18 10:33 variables.sh
+-rwxrwxr-x 1 ttrehan ttrehan 146 Mar 18 10:44 looping.sh
+-rw-rw-r-- 1 ttrehan ttrehan  61 Mar 19 00:14 sampleDataFile.txt
+-rwxrwxr-x 1 ttrehan ttrehan 167 Mar 19 00:15 readFileLineByLine.sh
+-rwxrwxr-x 1 ttrehan ttrehan 387 Mar 19 00:18 readFileAndOperations.sh
+-rwxrwxr-x 1 ttrehan ttrehan 356 Mar 19 00:21 stringContactAndFileWrite.sh
+-rw-rw-r-- 1 ttrehan ttrehan 115 Mar 19 00:21 myDataFile.txt
+-rwxrwxr-x 1 ttrehan ttrehan 539 Mar 25 07:51 if_else.sh
+-rwxrwxr-x 1 ttrehan ttrehan 246 Mar 25 10:27 simpleAwk.sh
+-rw-rw-r-- 1 ttrehan ttrehan   0 Mar 25 10:27 awkSampleData.txt

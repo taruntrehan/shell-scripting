@@ -13,4 +13,6 @@ awk 'BEGIN {sum=0} {sum=sum+$5} END {print sum}' awkSampleData.txt
 
 awk '{ if($9 == "simpleSed.sh") print $0;}' awkSampleData.txt
 
- awk 'BEGIN { for(i=1;i<=5;i++) print "square of", i, "is",i*i; }'
+awk 'BEGIN { for(i=1;i<=5;i++) print "square of", i, "is",i*i; }'
+
+awk 'BEGIN {OFS=":"} {print $4,$5}' awkSampleData.txt
