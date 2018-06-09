@@ -14,3 +14,8 @@ Steps to run.
 4. Above command grants execute permission to the shell script.
 5. ```sh <shell_file_name>```
 
+Reading Guide Order
+1. echoShell.sh
+2. processId.sh
+3. variables.sh
+4. 
