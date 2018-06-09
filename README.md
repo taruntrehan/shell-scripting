@@ -18,4 +18,19 @@ Reading Guide Order
 1. echoShell.sh
 2. processId.sh
 3. variables.sh
-4. 
+4. logUtils.sh
+5. inputVariables.sh
+6. if_else.sh
+7. looping.sh
+8. inputVariablesGetOpts.sh
+9. functionsInShell.sh
+10. importScript.sh
+11. readFileLineByLine.sh
+12. readFileAndOperations.sh
+13. stringConcatAndFileWrite.sh
+14. curUtils.sh
+15. dateUtils.sh
+16. errorHandling.sh
+17. mailUtils.sh
+18. simpleAwk.sh
+19. simpleSed.sh
