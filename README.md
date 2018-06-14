@@ -42,4 +42,4 @@ Few examples of code are:
 4. HTML Mail Content Generation
 5. Common utilities
 6. Re-Usable code
-#### 7. Many more... Please contact via github.com
+7. **Many more... Please contact via github.com**
