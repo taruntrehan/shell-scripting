@@ -1,7 +1,8 @@
 # Code Guides
 ## Unix-Shell-Scripting
 One stop codeguide for getting started on unix shell scripting.  
-The reposiory contains basic to intermediate working codes.  
+The reposiory contains basic to intermediate working codes.
+By studying these codes, you can get a working knowledge of unix shell scripting.  
 These codes are not samples but actual code snippets that can be leveraged in projects.
 Few examples of code are:  
 1. Passing input variables to shell script.
@@ -10,17 +11,16 @@ Few examples of code are:
 ### Steps to run.
 1. Note the directory where you have saved the file.
 2. ```cd <directory_path>```
-3. ```chmod +x <shell_file_name>```
-4. Above command grants execute permission to the shell script.
-5. ```sh <shell_file_name>```
+3. Grant execute permission to shell script by running command : ```chmod +x <shell_file_name>``` 
+4. ```sh <shell_file_name>```
 
 ### Reading Guide Order
 1. echoShell.sh
 2. processId.sh
 3. variables.sh
-4. logUtils.sh
+4. if_else.sh
 5. inputVariables.sh
-6. if_else.sh
+6. logUtils.sh
 7. looping.sh
 8. inputVariablesGetOpts.sh
 9. functionsInShell.sh
@@ -42,4 +42,4 @@ Few examples of code are:
 4. HTML Mail Content Generation
 5. Common utilities
 6. Re-Usable code
-7. Many more... Please contact via github.com
+#### 7. Many more... Please contact via github.com
